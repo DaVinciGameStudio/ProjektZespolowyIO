@@ -1,0 +1,7 @@
+Aby zagrać w tę gre należy pobrać odpowiedni zip dla systemu. 
+Dla systemu Windows należy pobrać plik VisionRun.zip rozpakować i uruchomić za pomocą pliku VisionRun.exe.
+Dla systemu MacOS należy pobrać plik MacOS.app.zip rozpakować go. W konsoli należy przejść do folderu z grą nadać jej uprawnienia poniższymi komendami
+chmod +rw MacOS/Contents/MacOS/VisionRun
+chmod +rx MacOS/Contents/MacOS/VisionRun
+Oraz nadać uprawnienia zaufania developerowi.
+Teraz możesz cieszyć się grą. :)
